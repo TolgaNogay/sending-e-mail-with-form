@@ -1,0 +1,10 @@
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\c-mail\c-mail\bin\Debug\c-mail.exe.config
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\c-mail\c-mail\bin\Debug\c-mail.exe
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\c-mail\c-mail\bin\Debug\c-mail.pdb
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\c-mail\c-mail\obj\Debug\c-mail.csprojAssemblyReference.cache
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\c-mail\c-mail\obj\Debug\c_mail.Form1.resources
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\c-mail\c-mail\obj\Debug\c_mail.Properties.Resources.resources
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\c-mail\c-mail\obj\Debug\c-mail.csproj.GenerateResource.cache
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\c-mail\c-mail\obj\Debug\c-mail.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\c-mail\c-mail\obj\Debug\c-mail.exe
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\c-mail\c-mail\obj\Debug\c-mail.pdb
